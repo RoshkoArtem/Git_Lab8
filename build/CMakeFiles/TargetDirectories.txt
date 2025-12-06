@@ -1,0 +1,3 @@
+C:/Users/User/Projects/GitR_A/L8/build/CMakeFiles/My3DViewer.dir
+C:/Users/User/Projects/GitR_A/L8/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/User/Projects/GitR_A/L8/build/CMakeFiles/ZERO_CHECK.dir
