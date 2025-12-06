@@ -1,0 +1,9 @@
+.\vcpkg.exe install glad:x64-windows glm:x64-windows glfw3:x64-windows
+cd C:\Users\User\Projects\GitR_A\L8
+
+cmake -S . -B build `
+  -DCMAKE_TOOLCHAIN_FILE=C:/Users/User/Projects/GitR_A/vcpkg/scripts/buildsystems/vcpkg.cmake `
+  -DCMAKE_BUILD_TYPE=Release
+cmake --build build --config Release
+cd C:\Users\User\Projects\GitR_A\L8\build\Release
+.\My3DViewer.exe
